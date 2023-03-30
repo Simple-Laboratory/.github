@@ -32,4 +32,6 @@ We value results over process, and prioritize action and outcomes in everything 
 ### Collaboration: 	
 We believe in the power of working together, both within our team and with our customers and partners, to achieve common goals.
 ### Resilience: 	
-We embrace challenges and setbacks as opportunities for growth and learning, and remain steadfast in our commitment to achieving our goals.					### Accountability: 	We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.											
+We embrace challenges and setbacks as opportunities for growth and learning, and remain steadfast in our commitment to achieving our goals.					
+### Accountability: 
+We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.											
