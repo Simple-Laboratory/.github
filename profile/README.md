@@ -24,10 +24,13 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 - Resilience: We embrace challenges and setbacks as opportunities for growth and learning, and remain steadfast in our commitment to achieving our goals.
 - Accountability: We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.
 
-## Onboarding
-- **Technical Onboarding**: Read technical.md for technical onboarding for Simapsee
-- **Creative Onboarding**: Read creative.md for creative onboarding for Simapsee
-- **Wellness Onboarding**: Read wellness.md for wellness onboarding for Simapsee
+
+## Team Onboarding
+
+- [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
+- [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
+- [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
+
 
 ## Meeting/Chat Space
 Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
