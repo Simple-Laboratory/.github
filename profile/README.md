@@ -35,16 +35,22 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 ## Meeting/Chat Space
 Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
 
-## Project Board/Codespace
+# Project Board/Codespace
+
 GitHub is our official project management and codespace platform. Our repository can be found at https://github.com/Simapsee/prototype_.git. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
-We have organized our organization into several sections:
-- Issues: This is where we track bugs, feature requests, and other tasks related to our product development.
-- Projects: This is where we manage our project boards. You can access our project board at https://github.com/simapsee/simapsee/projects.
-- Code: This is where we store our codebase. You can clone the repository to your local machine and start working on it.
-- Wiki: This is where we store our documentation.
+## GitHub Project Board
 
-We recommend that you familiarize yourself with the existing issues and project board. Please let us know if you have any questions or if there is anything we can do to help you get started.
+We use the GitHub project board to manage our tasks and track the progress of our development. To access the project board, go to https://github.com/simapsee/simapsee/projects. Our board is organized into several columns:
+
+- **To Do**: This is where we keep all of the tasks that need to be done. These tasks may include bug fixes, new features, or improvements to existing features.
+- **In Progress**: This is where we move tasks that are currently being worked on.
+- **Review**: This is where we move tasks that are ready for review by other team members.
+- **Done**: This is where we move tasks that have been completed.
+
+To get started, find your team's board on the project board and look for the issue that you have been assigned to. If you are unsure about which issue you should be working on, please reach out to your team leader or manager for guidance.
+
+
 
 We look forward to working with you and helping you achieve your goals at Simapsee. Welcome aboard!
 
