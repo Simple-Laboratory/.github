@@ -35,12 +35,11 @@ We take responsibility for our actions and outcomes, and hold ourselves and each
 
 We're excited to have you on board! This README file will help you get started with our GitHub repository and provide you with some useful information on how to contribute to our project.
 
+## Onboarding
 
-## Resources
-
-- [CONTRIBUTING.md](./CONTRIBUTING.md): Our guidelines and standards for contributing to our project.
-- [ISSUES.md](./ISSUES.md): Our issue tracking process and guidelines.
-- [LICENSE.md](./LICENSE.md): Our project's licensing information.
+- [technical.md](./technical.md): Technical onboarding for Simapsee
+- [creative.md](./creative.md): Creative onboarding for Simapsee
+- [wellness.md](./wellness.md): Wellness onboarding for Simapsee
 
 ## Join our chatroom
 
