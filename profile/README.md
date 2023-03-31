@@ -36,9 +36,9 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
 
 ## Project Board/Codespace
-GitHub is our official project management and codespace platform. Our repository can be found at https://github.com/simapsee/simapsee. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
+GitHub is our official project management and codespace platform. Our repository can be found at https://github.com/Simapsee/prototype_.git. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
-We have organized our repository into several sections:
+We have organized our organization into several sections:
 - Issues: This is where we track bugs, feature requests, and other tasks related to our product development.
 - Projects: This is where we manage our project boards. You can access our project board at https://github.com/simapsee/simapsee/projects.
 - Code: This is where we store our codebase. You can clone the repository to your local machine and start working on it.
