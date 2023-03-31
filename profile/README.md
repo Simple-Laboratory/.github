@@ -25,11 +25,6 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 - Accountability: We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.
 
 
-## Team Onboarding
-
-- [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
-- [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
-- [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
 
 
 ## Meeting/Chat Space
@@ -62,8 +57,13 @@ Finally, once the issue has been approved, move it to the "Done" column. Congrat
 
 We recommend that you regularly check the project board for updates and new tasks. If you see a task that you think you can contribute to, please comment on the issue and let us know that you would like to work on it.
 
-Please let us know if you have any questions or if there is anything we can do to help you get started.
+Please see below for team-specific onboarding. If you have any questions or if there is anything we can do to help you get started, please don't hesitate to reach out to your team leader or manager.
 
+## Team Onboarding
+
+- [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
+- [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
+- [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
 
 
 We look forward to working with you and helping you achieve your goals at Simapsee. Welcome aboard!
