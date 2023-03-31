@@ -1,5 +1,15 @@
 
 # SIMAPSEE - See Your Higher Self
+
+Our aim is to equip individuals with the tools they need to consciously and consistently visualize their higher selves, leading to a gradual unraveling of that reality through their own actions.
+
+## Product Description
+
+Our first product will include:
+
+- Audible and visual tools for seeing your higher self
+- Personalized actualization pills through a well-documented open-label placebo trial/experiment
+
 # Welcome to Simapsee!
 
 We're glad to have you on board and we look forward to working with you!
@@ -25,7 +35,7 @@ We take responsibility for our actions and outcomes, and hold ourselves and each
 
 We're excited to have you on board! This README file will help you get started with our GitHub repository and provide you with some useful information on how to contribute to our project.
 
-# Getting started
+# Getting started with our Technical Team
 
 To get started, you'll need to clone our GitHub repository onto your local machine. You can do this by running the following command in your terminal:
 
