@@ -41,14 +41,28 @@ GitHub is our official project management and codespace platform. Our repository
 
 ## GitHub Project Board
 
-We use the GitHub project board to manage our tasks and track the progress of our development. To access the project board, go to https://github.com/simapsee/simapsee/projects. Our board is organized into several columns:
+We use the GitHub project board to manage our tasks and track the progress of our development, including non-code related projects. To access the project board, go to https://github.com/simapsee/simapsee/projects. Our board is organized into several columns:
 
-- **To Do**: This is where we keep all of the tasks that need to be done. These tasks may include bug fixes, new features, or improvements to existing features.
+- **To Do**: This is where we keep all of the tasks that need to be done. These tasks may include bug fixes, new features, or improvements to existing features, as well as creative and wellness tasks.
 - **In Progress**: This is where we move tasks that are currently being worked on.
 - **Review**: This is where we move tasks that are ready for review by other team members.
 - **Done**: This is where we move tasks that have been completed.
 
 To get started, find your team's board on the project board and look for the issue that you have been assigned to. If you are unsure about which issue you should be working on, please reach out to your team leader or manager for guidance.
+
+### Completing Tasks on the Project Board
+
+Once you have identified the issue you will be working on, read the issue description and requirements carefully. If you have any questions or need clarification, please comment on the issue or reach out to your team leader or manager.
+
+Next, move the issue from the "To Do" column to the "In Progress" column. This will let other team members know that you are working on the issue. If you encounter any issues or obstacles while working on the issue, please comment on the issue or reach out to your team leader or manager for assistance.
+
+When you have completed the task based on the requirements, move the issue to the "Review" column. Other team members will review your work and provide feedback. If there are any changes or improvements that need to be made, you will be notified in the comments section of the issue.
+
+Finally, once the issue has been approved, move it to the "Done" column. Congratulations, you have successfully completed a task on our project board!
+
+We recommend that you regularly check the project board for updates and new tasks. If you see a task that you think you can contribute to, please comment on the issue and let us know that you would like to work on it.
+
+Please let us know if you have any questions or if there is anything we can do to help you get started.
 
 
 
