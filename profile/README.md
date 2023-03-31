@@ -10,40 +10,40 @@ Our first product will include:
 - Audible and visual tools for seeing your higher self
 - Personalized actualization pills through a well-documented open-label placebo trial/experiment
 
-# Welcome to Simapsee!
+# Simapsee Onboarding
 
-We're glad to have you on board and we look forward to working with you!
+Welcome to Simapsee! We're glad to have you on board and we look forward to working with you!
 
 ## Core Values
-
-### Growth mindset:	
-We believe in the power of continuous learning and growth, both for ourselves and for our customers.
-### Innovation: 	
-We are committed to staying at the forefront of our industry, embracing new technologies and ideas to deliver the best possible solutions.		
-### Customer obsession: 	
-Our customers are at the heart of everything we do, and we are dedicated to creating products and services that meet their needs and exceed their expectations.
-### Integrity: 	
-We operate with honesty, transparency, and ethical principles in all of our business dealings.
-### Results-oriented: 	
-We value results over process, and prioritize action and outcomes in everything we do.
-### Collaboration: 	
-We believe in the power of working together, both within our team and with our customers and partners, to achieve common goals.
-### Resilience: 	
-We embrace challenges and setbacks as opportunities for growth and learning, and remain steadfast in our commitment to achieving our goals.					
-### Accountability: 
-We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.											
-
-We're excited to have you on board! This README file will help you get started with our GitHub repository and provide you with some useful information on how to contribute to our project.
+- Growth mindset: We believe in the power of continuous learning and growth, both for ourselves and for our customers.
+- Innovation: We are committed to staying at the forefront of our industry, embracing new technologies and ideas to deliver the best possible solutions.
+- Customer obsession: Our customers are at the heart of everything we do, and we are dedicated to creating products and services that meet their needs and exceed their expectations.
+- Integrity: We operate with honesty, transparency, and ethical principles in all of our business dealings.
+- Results-oriented: We value results over process, and prioritize action and outcomes in everything we do.
+- Collaboration: We believe in the power of working together, both within our team and with our customers and partners, to achieve common goals.
+- Resilience: We embrace challenges and setbacks as opportunities for growth and learning, and remain steadfast in our commitment to achieving our goals.
+- Accountability: We take responsibility for our actions and outcomes, and hold ourselves and each other accountable to our commitments and goals.
 
 ## Onboarding
+- **Technical Onboarding**: Read technical.md for technical onboarding for Simapsee
+- **Creative Onboarding**: Read creative.md for creative onboarding for Simapsee
+- **Wellness Onboarding**: Read wellness.md for wellness onboarding for Simapsee
 
+## Meeting/Chat Space
+Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
 
-- [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
-- [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
-- [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
+## Project Board/Codespace
+GitHub is our official project management and codespace platform. Our repository can be found at https://github.com/simapsee/simapsee. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
-## Join our chatroom
+We have organized our repository into several sections:
+- Issues: This is where we track bugs, feature requests, and other tasks related to our product development.
+- Projects: This is where we manage our project boards. You can access our project board at https://github.com/simapsee/simapsee/projects.
+- Code: This is where we store our codebase. You can clone the repository to your local machine and start working on it.
+- Wiki: This is where we store our documentation.
 
-https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
+We recommend that you familiarize yourself with the existing issues and project board. Please let us know if you have any questions or if there is anything we can do to help you get started.
+
+We look forward to working with you and helping you achieve your goals at Simapsee. Welcome aboard!
+
 
 
