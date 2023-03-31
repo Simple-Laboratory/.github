@@ -10,6 +10,19 @@ Our first product will include:
 - Audible and visual tools for seeing your higher self
 - Personalized actualization pills through a well-documented open-label placebo trial/experiment
 
+## Problem
+
+SIMAPSEE is addressing the problem of a lack of consistent visualization and action towards achieving one's higher self. Many individuals struggle to maintain the motivation and accountability necessary to make meaningful changes in their lives, especially when it comes to achieving their higher self.
+
+## Solution
+
+Our product provides users with audible and visual tools for seeing their higher self, paired with personalized actualization pills, to create a tangible and achievable path towards self-improvement. We understand that achieving one's higher self is not about setting highly specific goals but rather feeding the conscious mind with positive material and letting the subconscious mind drive people's actions. Our product provides users with the tools and accountability hacks necessary to constantly feed their conscious mind with positive material instead of the draining drama that is all too common in our society. By doing so, we aim to empower individuals to take charge of their growth and achieve their full potential using an evidence-based approach to achieving their goals.
+
+## How We Are Different
+
+SIMAPSEE is different from other self-improvement products because it combines personalized actualization pills through a well-documented open-label placebo trial with audible and visual tools for seeing one's higher self. This combination of AI tools, affirmations, and placebo pills creates an innovative and unique approach to self-improvement that has not been done before on a mass scale. Additionally, our app fosters accountability and growth among users seeking an edge towards their higher self.
+
+
 # Simapsee Onboarding
 
 Welcome to Simapsee! We're glad to have you on board and we look forward to working with you!
