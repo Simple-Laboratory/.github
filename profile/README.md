@@ -29,10 +29,9 @@ We're excited to have you on board! This README file will help you get started w
 
 To get started, you'll need to clone our GitHub repository onto your local machine. You can do this by running the following command in your terminal:
 
+```
 git clone https://github.com/Simapsee/prototype_.git
-
-vbnet
-Copy code
+```
 
 Once you've cloned the repository, you can navigate to the project directory and start working on the code. Before you begin, be sure to read through our CONTRIBUTING.md file to familiarize yourself with our coding standards and guidelines.
 
@@ -48,9 +47,10 @@ We use a branching strategy that allows for collaboration and easy merging of co
 
 To create a new feature branch, run the following command:
 
+```
 git checkout -b feature/your-feature-branch-name dev
+```
 
-Copy code
 
 ## Pull requests
 
@@ -58,9 +58,9 @@ Once you've completed your feature work, it's time to create a pull request (PR)
 
 1. Push your feature branch to the remote repository:
 
+```
 git push -u origin feature/your-feature-branch-name
-
-Copy code
+```
 
 2. Navigate to our GitHub repository in your browser and click on the "New pull request" button.
 
