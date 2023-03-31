@@ -25,7 +25,7 @@ We take responsibility for our actions and outcomes, and hold ourselves and each
 
 We're excited to have you on board! This README file will help you get started with our GitHub repository and provide you with some useful information on how to contribute to our project.
 
-## Getting started
+# Getting started
 
 To get started, you'll need to clone our GitHub repository onto your local machine. You can do this by running the following command in your terminal:
 
