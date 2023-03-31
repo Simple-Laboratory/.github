@@ -45,7 +45,7 @@ Zulip is our official meeting and chat space. You can access our Zulip chatroom 
 
 # Project Board/Codespace
 
-GitHub is our official project management and codespace platform. Our repository can be found at https://github.com/Simapsee/prototype_.git. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
+GitHub is our official project management and codespace platform. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
 ## GitHub Project Board
 
