@@ -37,9 +37,10 @@ We're excited to have you on board! This README file will help you get started w
 
 ## Onboarding
 
-- [Technical.md](./Technical.md): Technical onboarding for Simapsee
-- [creative.md](./creative.md): Creative onboarding for Simapsee
-- [wellness.md](./wellness.md): Wellness onboarding for Simapsee
+
+- [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
+- [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
+- [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
 
 ## Join our chatroom
 
