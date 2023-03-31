@@ -16,7 +16,7 @@ SIMAPSEE is addressing the problem of a lack of consistent visualization and act
 
 ## Solution
 
-Our product provides users with audible and visual tools for seeing their higher self, paired with personalized actualization pills, to create a tangible and achievable path towards self-improvement. We understand that achieving one's higher self is not about setting highly specific goals but rather feeding the conscious mind with positive material and letting the subconscious mind drive people's actions. Our product provides users with the tools and accountability hacks necessary to constantly feed their conscious mind with positive material instead of the draining drama that is all too common in our society. By doing so, we aim to empower individuals to take charge of their growth and achieve their full potential using an evidence-based approach to achieving their goals.
+Our product provides users with audible and visual tools for seeing their higher self, paired with personalized actualization pills, to create a tangible and achievable path towards self-improvement. Our solution is focused on reprogramming the subconscious mind, rather than telling people what specific actions to take. While setting goals can be helpful, we believe that achieving one's higher self requires feeding the conscious mind with positive material and allowing the subconscious mind to drive people's actions. With our app, users will be able to input their goals and receive personalized affirmations and auto-suggestions to help them achieve those goals. By doing so, we aim to empower individuals to take charge of their growth and achieve their full potential using an evidence-based approach to achieving their goals.
 
 ## How We Are Different
 
