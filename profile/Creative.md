@@ -1,6 +1,8 @@
 
 ## Creative Founder/CEO Support Team Description
 
+As a member of the creative team supporting the Creative Founder/CEO, your primary goal will be to drive the company's creative vision and contribute to technical development. You'll work closely with the Creative Founder/CEO, the technical team, and other creative team members to ensure that the company's products are visually appealing, user-friendly, and effectively marketed to its target audience.
+
 ### Personality Traits:
 As a member of the creative team, you should be both creative and technical, with a deep understanding of how to develop products and services that align with market trends and customer needs. You should be able to think outside the box and develop unique marketing strategies that will set the company apart from its competitors. You'll also need to be an excellent communicator, able to clearly articulate the benefits of the company's products and services to customers.
 
