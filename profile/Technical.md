@@ -1,3 +1,24 @@
+# Technical Founder/CTO Support Team Description:
+
+As a member of the technical team supporting the Technical Founder/CTO, your primary goal will be to develop and implement the company's technical strategy, with a focus on AI and machine learning. You'll work closely with the Technical Founder/CTO and other technical team members to ensure that the company's app, website, and software programs are developed to meet the needs of its target audience.
+
+### Personality Traits:
+
+As a member of the technical team, you should be highly skilled in software development and engineering, with a deep understanding of AI and machine learning. You should be detail-oriented, analytical, and have a passion for problem-solving. You'll also need to be a good communicator, able to collaborate effectively with other team members and stakeholders, and able to work well under pressure.
+
+### Responsibilities:
+
+As a member of the technical team, your responsibilities will include:
+
+- Developing and implementing the company's technical strategy, with a focus on AI and machine learning
+- Collaborating with other technical team members to ensure that the company's app, website, and software programs are developed to meet the needs of its target audience
+- Conducting research and staying up-to-date with the latest developments in AI and machine learning
+- Creating and maintaining technical documentation, such as user manuals and technical specifications
+- Troubleshooting technical issues and providing support to other team members as needed
+- Developing and maintaining relationships with external partners, such as vendors and contractors
+- Staying up-to-date with the latest trends and developments in the industry and sharing this knowledge with other team members
+
+
 # Getting started with our Technical Team
 
 To get started, you'll need to clone our GitHub repository onto your local machine. You can do this by running the following command in your terminal:
