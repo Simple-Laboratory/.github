@@ -44,8 +44,7 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
 
 # Project Board/Codespace
-
-GitHub is our official project management and codespace platform. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
+GitHub, because why not make everything complicated? :laugh: It's our official project management and codespace platform. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
 ## GitHub Project Board
 
@@ -66,7 +65,7 @@ Next, move the issue from the "To Do" column to the "In Progress" column. This w
 
 When you have completed the task based on the requirements, move the issue to the "Review" column. Other team members will review your work and provide feedback. If there are any changes or improvements that need to be made, you will be notified in the comments section of the issue.
 
-Finally, once the issue has been approved, move it to the "Done" column. Congratulations, you have successfully completed a task on our project board!
+You can now bask in the glory of having moved an issue from the "To Do" column to the coveted "Done" column.
 
 We recommend that you regularly check the project board for updates and new tasks. If you see a task that you think you can contribute to, please comment on the issue and let us know that you would like to work on it.
 
