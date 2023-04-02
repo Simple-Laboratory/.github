@@ -60,7 +60,7 @@ To get started, find your team's board on the project board and look for the iss
 
 ### Completing Tasks on the Project Board
 
-Once you have identified the issue you will be working on, read the issue description and requirements carefully. If you have any questions or need clarification, please comment on the issue or reach out to your team leader or manager.
+Once you have identified the issue you will be working on, read the issue description and requirements carefully. 
 
 Next, move the issue from the "To Do" column to the "In Progress" column. This will let other team members know that you are working on the issue. If you encounter any issues or obstacles while working on the issue, please comment on the issue or reach out to your team leader or manager for assistance.
 
