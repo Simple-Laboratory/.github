@@ -82,7 +82,7 @@ You're lost in a forest and come across a tree with a red apple hanging from it.
 "I eat the apple"
 - [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
 
-"I glance off into the distance and wonder who am I?"
+"I gaze into the distance and wonder who am I?"
 - [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
 
 
