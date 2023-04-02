@@ -44,7 +44,7 @@ Welcome to Simapsee! We're glad to have you on board and we look forward to work
 Zulip is our official meeting and chat space. You can access our Zulip chatroom at https://simpasee.zulipchat.com/join/ecqd7pxge4dzaxqzko26qgdr/
 
 # Project Board/Codespace
-GitHub, because why not make everything complicated? :laugh: It's our official project management and codespace platform. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
+GitHub, because why not make everything complicated? :rofl: It's our official project management and codespace platform. To get started, please create a GitHub account if you do not have one already and let us know your GitHub username so that we can add you as a collaborator to our repository.
 
 ## GitHub Project Board
 
