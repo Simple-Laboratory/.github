@@ -74,8 +74,15 @@ Please see below for team-specific onboarding. If you have any questions or if t
 
 ## Team Onboarding
 
+You're lost in a forest and come across a tree with a red apple hanging from it. On the ground next to the tree, you see a toolbox. What do you do first?
+
+"I open the toolbox"
 - [technical.md](./profile/Technical.md): Technical onboarding for Simapsee
+
+"I eat the apple"
 - [creative.md](./profile/Creative.md): Creative onboarding for Simapsee
+
+"I glance off into the distance and wonder who am I?"
 - [wellness.md](./profile/Wellness.md): Wellness onboarding for Simapsee
 
 
