@@ -1,5 +1,6 @@
-
 # SIMAPSEE - Open-label Actualization (OLA) - See Your Higher Self
+
+> *This endeavor seeks to harmonize tangible reality with the elusive unknown, drawing on ancient wisdom to enrich our comprehension of mental states and their role in the cosmos.*
 
 ## Welcome to SIMAPSEE - where Synapse meets Simulating, Mapping, and Vision!
 
