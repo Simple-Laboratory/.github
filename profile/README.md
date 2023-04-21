@@ -15,7 +15,8 @@ Specifically, we are looking for individuals who are passionate about self-impro
 email us here : 
 
 ```python
-simapsee@proton.me 
+simapsee@proton.me
+```
 
 or dm pla_cebro on instagram : 
 
